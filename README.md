@@ -1,6 +1,8 @@
 # memo
 some things on github https://hellogithub.com/
 
+https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
+
 - k8s https://github.com/ben1234560/k8s_PaaS
 
 https://www.google.com/search?q=Dubbo+%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E9%A3%9E&rlz=1C1GCEB_en__1057__1057&sourceid=chrome&ie=UTF-8
