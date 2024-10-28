@@ -1,5 +1,5 @@
 # memo
-explore some interesting things on github https://hellogithub.com/
+some things on github https://hellogithub.com/
 
 - k8s https://github.com/ben1234560/k8s_PaaS
 
