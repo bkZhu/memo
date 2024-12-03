@@ -1,14 +1,14 @@
 # memo
 some things on github https://hellogithub.com/
 
-kvm 真机 docker k8s
-数据库搭建，mysql建立 主从、备份、扩容、迁移
-配置中心
-单体服务 微服务通信 单机限流 本地缓存
-定时任务中心
-服务监控中心
-日志中心 - hive大数据存储
-加密防护
+- kvm 真机 docker k8s
+- 数据库搭建，mysql建立 主从、备份、扩容、迁移
+- 配置中心
+- 单体服务 微服务通信 单机限流 本地缓存
+- 定时任务中心
+- 服务监控中心
+- 日志中心 - hive大数据存储
+- 加密防护
 
 https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
 
