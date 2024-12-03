@@ -7,7 +7,7 @@ some things on github https://hellogithub.com/
 - 单体服务 微服务通信 单机限流 本地缓存
 - 定时任务中心
 - 服务监控中心
-- 日志中心 - hive大数据存储
+- 日志中心 - hive大数据存储 kafka消息队列
 - 加密防护
 
 https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
