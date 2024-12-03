@@ -5,8 +5,5 @@ https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
 
 - k8s https://github.com/ben1234560/k8s_PaaS
 
-https://www.google.com/search?q=Dubbo+%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E9%A3%9E&rlz=1C1GCEB_en__1057__1057&sourceid=chrome&ie=UTF-8
-
-https://www.google.com/search?q=HSF+%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%BD%9C%E8%80%85%E6%9E%97%E6%98%8A%EF%BC%88%E6%AF%95%E7%8E%84%EF%BC%89&rlz=1C1GCEB_en__1057__1057&sourceid=chrome&ie=UTF-8
-
-https://www.google.com/search?q=ITEye&rlz=1C1GCEB_en__1057__1057&sourceid=chrome&ie=UTF-8
+- dubbo的搭建
+- xxl-job 定时任务调度中心，一整套的解决方案 https://www.xuxueli.com/xxl-job/#%E3%80%8A%E5%88%86%E5%B8%83%E5%BC%8F%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%B9%B3%E5%8F%B0XXL-JOB%E3%80%8B
