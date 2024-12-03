@@ -1,6 +1,8 @@
 # memo
 some things on github https://hellogithub.com/
 
+- 需求响应效率、问题定位效率、潜在问题数量、代码变更影响范围、测试发布环境隔离
+
 - kvm 真机 docker k8s
 - 数据库搭建，mysql建立 主从、备份、扩容、迁移、数据恢复
 - 配置中心
