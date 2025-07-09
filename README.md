@@ -23,6 +23,8 @@ some things on github https://hellogithub.com/
 
 https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
 
+https://www.kubernetes.org.cn/
+
 - k8s https://github.com/ben1234560/k8s_PaaS
 
 - dubbo的搭建
