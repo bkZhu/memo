@@ -1,3 +1,5 @@
+# 想消费，但是价位太高
+
 # memo
 some things on github https://hellogithub.com/
 # 项目
