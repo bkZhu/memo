@@ -1,7 +1,6 @@
-# 想消费，但是价位太高
-
 # memo
 some things on github https://hellogithub.com/
+https://www.dutongjian.com/
 # 项目
 - 小程序开发 https://juejin.cn/post/6844903821332709383
 # 可供参考的项目
