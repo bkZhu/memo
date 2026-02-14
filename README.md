@@ -1,11 +1,14 @@
 # memo
-some things on github https://hellogithub.com/
-https://www.dutongjian.com/
+some things on github 
+
 # 项目
 - 小程序开发 https://juejin.cn/post/6844903821332709383
 # 可供参考的项目
 - 壁纸订阅网站 https://wallpaperhero.shop/
 
+- https://hellogithub.com/
+- https://javadoop.com/
+- https://www.dutongjian.com/
 
  
 # 其他
