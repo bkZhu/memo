@@ -1,6 +1,10 @@
 # memo
 some things on github 
 
+- 纯ipv6, 不支持国内v6
+- https://byr.pt/
+
+
 # 项目
 - 小程序开发 https://juejin.cn/post/6844903821332709383
 # 可供参考的项目
