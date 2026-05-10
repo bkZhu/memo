@@ -14,6 +14,9 @@ some things on github
 - https://javadoop.com/
 - https://www.dutongjian.com/
 
+# 书
+《论中国信息技术产业发展》
+
  
 # 其他
 
