@@ -3,6 +3,7 @@ some things on github
 
 - 纯ipv6, 不支持国内v6
 - https://byr.pt/
+- 国外的博客 https://nabeelqu.co/
 
 
 # 项目
